@@ -1,5 +1,5 @@
 // Secure Coding in C++
-// Exercise 01_03
+// Exercise 01_03 with modification
 // Safer Alternatives in Modern C++, by Eduardo Corpeño
 
 #include <iostream>
